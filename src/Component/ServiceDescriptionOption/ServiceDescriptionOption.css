@@ -1,0 +1,14 @@
+.servDesc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    justify-content: space-between;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.service__icon{
+    font-size: 90px!important;
+    color: #a164f1 !important;
+}
